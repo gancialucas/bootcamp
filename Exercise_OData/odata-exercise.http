@@ -17,6 +17,7 @@ GET {{base_url}}/$metadata
 
 ### ------------------------------------------------
 # Get orders with customer details
+# --> GET {{base_url}}/Customers?$expand=Orders
 GET {{base_url}}/Orders?$expand=Customer
 
 ### ------------------------------------------------
