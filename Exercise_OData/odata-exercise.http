@@ -17,7 +17,7 @@ GET {{base_url}}/$metadata
 
 ### ------------------------------------------------
 # Get orders with customer details
-GET {{base_url}}/Customers?$expand=Orders
+GET {{base_url}}/Orders?$expand=Customer
 
 ### ------------------------------------------------
 # Get the employees who report to manager "2"
@@ -29,7 +29,7 @@ GET {{base_url}}/Products?$filter=UnitsInStock gt 0
 
 ### ------------------------------------------------
 # Get only the names and codes of products that are NOT in stock (inventory)
-GET {{base_url}}/Products?$filter=UnitsInStock eq 0&$select=ProductID, ProductName
+GET {{base_url}}/Products?$filter=UnitsInStock eq 0&$select=ProductID, ProductName, UnitsInStock
 
 ### ------------------------------------------------
 # Get the 5 most expensive products
