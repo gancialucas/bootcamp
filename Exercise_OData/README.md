@@ -35,3 +35,6 @@ Here are some commonly used OData query parameters demonstrated in this reposito
 * `$top`: Limits the response to the first N results.
 * `$orderby`: Sorts results based on a property.
 * `$expand`: Includes related entities in the response.
+
+## + info
+For a comprehensive list of OData parameters and advanced query capabilities, refer to the official [OData Documentation](https://www.odata.org/).
