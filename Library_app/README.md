@@ -1,1 +1,1 @@
-# Library Backend App built with SAP - CAP
+# Library Backend App built with SAP - CAP 📚
