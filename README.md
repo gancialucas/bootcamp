@@ -1,17 +1,17 @@
-# SAP CAP Bootcamp - Globant 🚀
-### Introducción
-Bienvenidos al repositorio oficial del Bootcamp de SAP CAP impartido por la empresa Globant. Este espacio está diseñado para almacenar todos los recursos, ejercicios y ejemplos trabajados durante el curso. Se abordarán las bases necesarias para desarrollar aplicaciones empresariales utilizando SAP Cloud Application Programming Model (CAP).
+# Bootcamp SAP CAP - Globant 🚀
+### Introduction
+Welcome to the official repository for the SAP CAP Bootcamp conducted by Globant. This space is designed to store all the resources, exercises, and examples covered during the course. The bootcamp will address the fundamental concepts needed to develop enterprise applications using the SAP Cloud Application Programming Model (CAP).
 
-### Objetivo del Bootcamp
-El objetivo de este bootcamp es brindar una introducción práctica y teórica al desarrollo con SAP CAP, explorando temas como:
-* Modelado de datos con CDS (Core Data Services).
-* Creación y exposición de servicios OData.
-* Integración con bases de datos y servicios externos.
-* Buenas prácticas para desarrollar aplicaciones robustas y escalables en la nube.
-* Integración con Fiori usando SAPUI5, Fiori Elements, Web Components y mucho más.
+### Bootcamp Objective
+The objective of this bootcamp is to provide a practical and theoretical introduction to development with SAP CAP, exploring topics such as:
+* Data modeling with CDS (Core Data Services).
+* Creating and exposing OData services.
+* Integration with databases and external services.
+* Best practices for developing robust and scalable cloud applications.
+* Integration with Fiori using SAPUI5, Fiori Elements, Web Components, and more.
 
-### Contenido del Repositorio
-Este repositorio contiene:
-* Ejercicios prácticos: Proyectos básicos para afianzar los conceptos aprendidos.
-* Recursos adicionales: Links útiles, documentación, y tutoriales.
-* Ejemplos de código: Modelos y servicios implementados durante el bootcamp.
+### Repository Content
+This repository includes:
+* Practical exercises: Basic projects to reinforce the concepts learned.
+* Additional resources: Useful links, documentation, and tutorials.
+* Code examples: Models and services implemented during the bootcamp.
