@@ -8,6 +8,7 @@ El objetivo de este bootcamp es brindar una introducción práctica y teórica a
 * Creación y exposición de servicios OData.
 * Integración con bases de datos y servicios externos.
 * Buenas prácticas para desarrollar aplicaciones robustas y escalables en la nube.
+* Integración con Fiori usando SAPUI5, Fiori Elements, Web Components y mucho más.
 
 ### Contenido del Repositorio
 Este repositorio contiene:
