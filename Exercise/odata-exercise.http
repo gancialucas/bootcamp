@@ -44,7 +44,5 @@ GET {{base_url}}/Orders?$filter=ShipCountry eq 'Germany'
 # GET {{base_url}}/Categories?$filter=CategoryName eq 'Beverages' 
 #   --> sabemos que es el CategoryID = 1.
 #       GET {{base_url}}/Products?$filter=CategoryID eq 1
-#   --> No anda:
-#       GET {{base_url}}/Products?$expand=Category($filter=CategoryName eq 'Beverages')
 GET {{base_url}}/Products?$filter=Category/CategoryName eq 'Beverages'
 
