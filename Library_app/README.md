@@ -15,6 +15,7 @@ The primary goals of this application are:
 - Books Entity: Catalog books and associate them with their respective authors.
 - CDS-Based Model: Demonstrates how to leverage CDS for defining relationships, constraints, and data queries effectively.
 
+## File path
 It contains these folders and files, following our recommended project layout:
 
 File or Folder | Purpose
