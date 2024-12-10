@@ -1,6 +1,19 @@
 # Library App with SAP CAP 📚
 
-Welcome to my library application practice project
+This application is built using SAP Cloud Application Programming Model (CAP) and serves as a learning tool to understand key concepts in CAP development. It provides a structured approach to managing Authors and Books, which are the core entities in this system.
+
+### Purpose
+The primary goals of this application are:
+- File Structure and Routing: Gain insight into how files and folders are organized within a CAP application and how routing is configured.
+- Domain Logic and Data Modeling: Understand the principles of domain logic through effective data modeling.
+- Core Data Services (CDS):
+  - Learn to declaratively define service definitions, data models, queries, and expressions using CDS.
+  - Explore how CDS transforms these definitions into various target languages for use within the application.
+
+### Features
+- Authors Entity: Manage details about authors, including their profiles and related metadata.
+- Books Entity: Catalog books and associate them with their respective authors.
+- CDS-Based Model: Demonstrates how to leverage CDS for defining relationships, constraints, and data queries effectively.
 
 It contains these folders and files, following our recommended project layout:
 
