@@ -1,6 +1,6 @@
-# Getting Started
+# Library App with SAP CAP 📚
 
-Welcome to your new project.
+Welcome to my library application practice project
 
 It contains these folders and files, following our recommended project layout:
 
@@ -8,17 +8,17 @@ File or Folder | Purpose
 ---------|----------
 `app/` | content for UI frontends goes here
 `db/` | your domain models and data go here
+`data` | .csv files with data to run locally
 `srv/` | your service models and code go here
+`test` | Testing .http files with OData
 `package.json` | project metadata and configuration
 `readme.md` | this getting started guide
 
-
 ## Next Steps
 
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
-
+- Clone the repo.
+- Open a new terminal and run `npm i`
+- Then, run `cds watch`
 
 ## Learn More
 
